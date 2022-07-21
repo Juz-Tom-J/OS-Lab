@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main()
-{int cyl,initial,n,i,cyldist=0,diff=0;;
+{int cyl,initial,n,i,cyldist=0,diff=0;
  printf("For FCFS Disk Scheduling \n");
  printf("Enter the number of cylinders: \n");
  scanf("%d",&cyl);
