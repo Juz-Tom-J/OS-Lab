@@ -26,5 +26,5 @@ int main()
        for(k = 0; k < f_no; k++)
            printf("%d\t", f[k]);}
   printf("\n");}
-  printf("Total page faults: %d", fault);
+  printf("Total page faults: %d\n", fault);
   return 0;}
